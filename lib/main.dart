@@ -73,9 +73,12 @@ class HomePage extends StatelessWidget {
               Column(
                 children: [
                   Container(
-                    margin: const EdgeInsets.only(
-                        top: 20.0, bottom: 35.0, left: 40.0, right: 40.0),
-                    height: 70,
+                    margin: EdgeInsets.only(
+                        top: size.height * .02,
+                        bottom: size.height * .035,
+                        left: size.width * .09,
+                        right: size.width * .09),
+                    height: size.height * .07,
                     decoration: BoxDecoration(
                       color: Colors.white,
                       borderRadius: BorderRadius.circular(20.0),
@@ -99,7 +102,7 @@ class HomePage extends StatelessWidget {
                           );
                         },
                         child: Card(
-                          margin: const EdgeInsets.only(bottom: 30.0),
+                          margin: EdgeInsets.only(bottom: size.height * .03),
                           elevation: 10,
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(10.0),
@@ -132,7 +135,7 @@ class HomePage extends StatelessWidget {
                           );
                         },
                         child: Card(
-                          margin: const EdgeInsets.only(bottom: 30.0),
+                          margin: EdgeInsets.only(bottom: size.height * .03),
                           elevation: 10,
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(10.0),
@@ -171,7 +174,7 @@ class HomePage extends StatelessWidget {
                           );
                         },
                         child: Card(
-                          margin: const EdgeInsets.only(bottom: 30.0),
+                          margin: EdgeInsets.only(bottom: size.height * .03),
                           elevation: 10,
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(10.0),
@@ -205,7 +208,7 @@ class HomePage extends StatelessWidget {
                           );
                         },
                         child: Card(
-                          margin: const EdgeInsets.only(bottom: 30.0),
+                          margin: EdgeInsets.only(bottom: size.height * .03),
                           elevation: 10,
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(10.0),
@@ -243,7 +246,7 @@ class HomePage extends StatelessWidget {
                           );
                         },
                         child: Card(
-                          margin: const EdgeInsets.only(bottom: 30.0),
+                          margin: EdgeInsets.only(bottom: size.height * .03),
                           elevation: 10,
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(10.0),
@@ -276,7 +279,7 @@ class HomePage extends StatelessWidget {
                           );
                         },
                         child: Card(
-                          margin: const EdgeInsets.only(bottom: 30.0),
+                          margin: EdgeInsets.only(bottom: size.height * .03),
                           elevation: 10,
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(10.0),
