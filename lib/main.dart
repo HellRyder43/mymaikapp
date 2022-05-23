@@ -105,8 +105,8 @@ class HomePage extends StatelessWidget {
                             borderRadius: BorderRadius.circular(10.0),
                           ),
                           child: SizedBox(
-                            width: 154.00,
-                            height: 160.00,
+                            width: size.width * .40,
+                            height: size.height * .18,
                             child: ClipRRect(
                               borderRadius:
                                   BorderRadius.circular(10.0), // Image border
@@ -138,8 +138,8 @@ class HomePage extends StatelessWidget {
                             borderRadius: BorderRadius.circular(10.0),
                           ),
                           child: SizedBox(
-                            width: 154.00,
-                            height: 160.00,
+                            width: size.width * .40,
+                            height: size.height * .18,
                             child: ClipRRect(
                               borderRadius:
                                   BorderRadius.circular(10.0), // Image border
@@ -177,8 +177,8 @@ class HomePage extends StatelessWidget {
                             borderRadius: BorderRadius.circular(10.0),
                           ),
                           child: SizedBox(
-                            width: 154.00,
-                            height: 160.00,
+                            width: size.width * .40,
+                            height: size.height * .18,
                             child: ClipRRect(
                               borderRadius:
                                   BorderRadius.circular(10.0), // Image border
@@ -211,8 +211,8 @@ class HomePage extends StatelessWidget {
                             borderRadius: BorderRadius.circular(10.0),
                           ),
                           child: SizedBox(
-                            width: 154.00,
-                            height: 160.00,
+                            width: size.width * .40,
+                            height: size.height * .18,
                             child: ClipRRect(
                               borderRadius:
                                   BorderRadius.circular(10.0), // Image border
@@ -249,8 +249,8 @@ class HomePage extends StatelessWidget {
                             borderRadius: BorderRadius.circular(10.0),
                           ),
                           child: SizedBox(
-                            width: 154.00,
-                            height: 160.00,
+                            width: size.width * .40,
+                            height: size.height * .18,
                             child: ClipRRect(
                               borderRadius:
                                   BorderRadius.circular(10.0), // Image border
@@ -282,8 +282,8 @@ class HomePage extends StatelessWidget {
                             borderRadius: BorderRadius.circular(10.0),
                           ),
                           child: SizedBox(
-                            width: 154.00,
-                            height: 160.00,
+                            width: size.width * .40,
+                            height: size.height * .18,
                             child: ClipRRect(
                               borderRadius:
                                   BorderRadius.circular(10.0), // Image border
