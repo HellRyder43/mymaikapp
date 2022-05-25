@@ -1,4 +1,4 @@
-package com.example.mymaikapp
+package com.mymaikapp
 
 import io.flutter.embedding.android.FlutterActivity
 
